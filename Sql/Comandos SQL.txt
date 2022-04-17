@@ -1,0 +1,27 @@
+Comandos básicos
+CREAT Cria uma TABLE, DATABASE, INDEX ou VIEW.
+SELECT Usado para listar os campos desejados no resultado de uma consulta.
+UPDATE Altera valores de um campo de um determinado registro.
+DELETE Remove registros de uma tabela.
+DROP Excluir TABLE, DATABASE, INDEX OU VIEW.
+ALTER TABLE Adicionar/Remover colunas da tabela.
+INSERT INTO Insere valores de registro em um campo da tabela.
+AS Renomeia uma coluna temporariamente.
+FROM Especifica todas as tabelas que a serem utilizadas na consulta.
+WHERE Consiste em uma condição que filtra a consulta com elementos correspondentes que aparecem na cláusula FROM.
+JOIN Combina colunas de uma ou mais tabelas.
+AND Condição em uma consulta, significa 'E'.
+OR Condição em uma consulta, significa 'Ou'.
+LIKE Procura padrões em uma coluna, significa 'Parecido'.
+IN Especifica vários valores ao usar WHERE, significa 'Em'.
+IS NULL Retorna apenas linhas com valor nulo.
+LIMIT Limita as linhas que serão exibidas no resultado.
+CASE Permite a criação de estruturas de controle complexas para testar condições.
+GROUP BY Agrupa registros semelhantes em uma tabela.
+ORDER BY Organiza os resultados com uma ou mais colunas, podendo definir a ordem como crescente ou decrescente.
+HAVING Usado para especificar condições de filtragem em grupos, filtra as colunas agrupadas.
+SUM Retorna a soma da coluna.
+MIN Retorna o valor mínimo da coluna.
+MAX Retorna o valor máximo da coluna.
+AVG Retorna a média das colunas.
+COUNT Conta o número de linhas
